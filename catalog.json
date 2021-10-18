@@ -1,0 +1,35 @@
+[
+  {  
+    "nombre": "Koala",
+    "descripcion": "El koala es un animal mamífero que se asemeja a un oso de tamaño pequeño. ... Entre las principales características físicas del koala aparecen su cabeza de gran tamaño, su nariz grande, sus orejas redondeadas y su cuerpo robusto que carece de cola y que está cubierto por un pelaje marrón o grisáceo.",
+    "imagen_url": "https://raw.githubusercontent.com/enriquerivasf/fp/main/koala%20editado.jpg"
+  },
+  {
+    "nombre": "Panda",
+    "descripcion": "Tienen un pelaje erizado y de color pardo y llevan en la cabeza una máscara blanca. El oso panda es un animal grande, con pelaje blanco o amarillento, largo, denso y de aspecto lanoso; sus hombros, patas, orejas y zona de los ojos son de color negro; la cola es ancha y corta",
+    "imagen_url": "https://raw.githubusercontent.com/enriquerivasf/fp/main/panda%20editado.jpg"
+  },
+  {
+    "nombre": "Leon",
+    "descripcion": "Un león es un animal mamífero originario de África que se caracteriza por su cabeza de gran tamaño (coronada por una melena en el caso de los machos), sus dientes fuertes, sus garras y su cola extensa que finaliza en un fleco.",
+    "imagen_url": "https://raw.githubusercontent.com/enriquerivasf/fp/main/leon%20editado.jpg"
+  },
+  {
+    "nombre": "Loro",
+    "descripcion": "Los loros se caracterizan por tener un pico curvado, con una mandíbula inferior con cierta movilidad en su conexión con el cráneo y situada en una posición bastante vertical. Además tienen una gran capacidad craneal y son uno de los grupos de aves más inteligentes.",
+    "imagen_url": "https://raw.githubusercontent.com/enriquerivasf/fp/main/loro%20editado.jpg"
+  },
+  {
+    "nombre": "Cabra",
+    "descripcion": "Mamífero rumiante doméstico, como de un metro de altura, ligero, esbelto, con pelo corto, áspero y a menudo rojizo, cuernos huecos, grandes, esquinados, nudosos y vueltos hacia atrás, un mechón de pelos largos colgante de la mandíbula inferior y cola muy corta.",
+    "imagen_url": "https://raw.githubusercontent.com/enriquerivasf/fp/main/cabra%20editada.jpg"
+  }
+]
+ 
+  
+  
+  
+  
+  
+  
+  ]
